@@ -1,4 +1,4 @@
 # Nityapatel-demo
 This is my first git repository
 <br>
-Aurther- Nitya dpakbhai 
+Aurther- Nitya dpakbhai patel
